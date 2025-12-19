@@ -1,0 +1,1 @@
+# https-github.com-Mojang-bedrock-protocol-docs
